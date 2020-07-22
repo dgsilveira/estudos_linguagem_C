@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595383168 source:d:\conhecimento\c e c++\udemy c c++\ws codeblocks\26 if else multiplos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

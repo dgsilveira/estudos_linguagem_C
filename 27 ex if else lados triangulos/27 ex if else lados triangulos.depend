@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595385094 source:d:\conhecimento\c e c++\udemy c c++\ws codeblocks\27 ex if else lados triangulos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

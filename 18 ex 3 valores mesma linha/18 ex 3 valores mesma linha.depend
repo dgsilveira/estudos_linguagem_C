@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595291038 source:d:\conhecimento\c e c++\udemy\ws codeblocks\18 ex 3 valores mesma linha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

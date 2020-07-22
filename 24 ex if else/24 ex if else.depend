@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595381522 source:d:\conhecimento\c e c++\udemy c c++\ws codeblocks\24 ex if else\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
