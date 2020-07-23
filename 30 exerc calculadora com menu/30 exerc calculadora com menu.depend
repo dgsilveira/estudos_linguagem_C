@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595411953 source:d:\conhecimento\c e c++\udemy c c++\ws codeblocks\30 exerc calculadora com menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

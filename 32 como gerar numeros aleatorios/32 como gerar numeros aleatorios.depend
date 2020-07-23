@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595412911 source:d:\conhecimento\c e c++\udemy c c++\ws codeblocks\32 como gerar numeros aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
